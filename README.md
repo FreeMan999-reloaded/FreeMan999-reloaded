@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
     I am Abel Debebe. An experienced Software Engineer/Developer passionate about coding always looking for a <span color="red" font="bold">GOOD CHALLENGE</span>.
 </p>
+
 ```yaml
         location: Ethiopia, Africa
         current_job: Freelance Full Stack Developer/Engineer
