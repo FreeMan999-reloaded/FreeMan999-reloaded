@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <p align="center" style="background-image:url('https://stockcake.com/i/illuminated-africa-map_992316';padding: 10px;background-size: cover;">
   <img src="https://capsule-render.vercel.app/api?text= I am Abel Debebe. An experienced Software Engineer/Developer passionate about coding always looking for a GOOD CHALLENGE.&type=venom&🕹️&animation=fadeIn&color=gradient&height=100"/>
 </p>
+
 ```yaml
         location: Ethiopia, Africa
         current_job: Freelance Full Stack Developer/Engineer
